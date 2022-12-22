@@ -8,9 +8,13 @@ Hi. I am Hiroaki Osawa. I am a student of University.
 ### Language
 - Python
 - Rust
+- Swift
 - C#
 - TypeScript
 
-### other
+### Other
 - Music
 - Gaming
+
+## Portfolio
+secret :)
