@@ -1,20 +1,6 @@
-# hello-world
-
-## Introduction
-Hi. I am Hiroaki Osawa. I am a student of University.
-
-## I Like
-
-### Language
-- Python
-- Rust
-- Swift
-- C#
-- TypeScript
-
-### Other
-- Music
-- Gaming
-
-## Portfolio
-secret :)
+# ソフトウェア工学演習
+## 日付
+2023/1/12
+## 自己紹介リスト
+-[Hiroaki.O](https://github.com/HiroakiOsawa/hello-world#intro)
+-[Chihiro.K](https://github.com/HiroakiOsawa/hello-world#intro2)
